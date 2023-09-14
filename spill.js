@@ -1,5 +1,6 @@
 
-  const MIN_NUMBER = 1;
+ 
+ const MIN_NUMBER = 1;
   const MAX_NUMBER = 100;
   let tries = 6;
 
