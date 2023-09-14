@@ -30,7 +30,7 @@
     }
 
     else if (guess === randomNumber) {
-      li.innerHTML = `You guessed ${guess}, Correct Guess!`;
+      li.innerHTML = `You guessed ${guess}, Correct Guess <br/><h2><b>YOU WON, CONGRATS!!</h2></b><br/!`;
       button.disabled = true;
       playAgainButton.disabled = false;
 
